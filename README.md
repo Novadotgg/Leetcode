@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/Novadotgg/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/Novadotgg/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Novadotgg/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Novadotgg/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Novadotgg/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Novadotgg/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Novadotgg/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Union Find
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Novadotgg/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Novadotgg/Leetcode/tree/master/2645-pass-the-pillow) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
