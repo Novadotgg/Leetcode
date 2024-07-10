@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Novadotgg/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/Novadotgg/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
+| [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Novadotgg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Novadotgg/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Novadotgg/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Novadotgg/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Novadotgg/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Novadotgg/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Novadotgg/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
