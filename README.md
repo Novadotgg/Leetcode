@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Novadotgg/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/Novadotgg/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Novadotgg/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Novadotgg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Novadotgg/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
