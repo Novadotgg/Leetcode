@@ -35,29 +35,28 @@ public:
         // return ans;
         if (!root) return 0;
         
-        int sum = 0;
+        int ans = 0;
         queue<TreeNode*> q;
         q.push(root);
         
         while (!q.empty()) {
-            TreeNode* node = q.front();
+            TreeNode* temp = q.front();
             q.pop();
             
-            if (node->left) {
-          
-                if (!node->left->left && !node->left->right) {
-                    sum += node->left->val;
+            if (temp->left) {
+                if (!temp->left->left && !temp->left->right) {
+                    ans += temp->left->val;
                 } else {
-                    q.push(node->left);
+                    q.push(temp->left);
                 }
             }
             
-            if (node->right) {
-                q.push(node->right);
+            if (temp->right) {
+                q.push(temp->right);
             }
         }
         
-        return sum;
+        return ans;
     }
 };
 
