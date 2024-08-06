@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Novadotgg/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Novadotgg/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1899-count-items-matching-a-rule](https://github.com/Novadotgg/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2128-reverse-prefix-of-word](https://github.com/Novadotgg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Novadotgg/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Novadotgg/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Novadotgg/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Novadotgg/Leetcode/tree/master/1803-average-waiting-time) |
+| [1899-count-items-matching-a-rule](https://github.com/Novadotgg/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Novadotgg/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Novadotgg/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
