@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Novadotgg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/Novadotgg/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Novadotgg/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Novadotgg/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Novadotgg/Leetcode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/Novadotgg/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Novadotgg/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Novadotgg/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Novadotgg/Leetcode/tree/master/1642-water-bottles) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Novadotgg/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Novadotgg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Novadotgg/Leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Novadotgg/Leetcode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/Novadotgg/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Novadotgg/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Novadotgg/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Novadotgg/Leetcode/tree/master/1511-count-number-of-teams) |
