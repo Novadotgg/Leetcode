@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Novadotgg/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Novadotgg/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Novadotgg/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Novadotgg/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/Novadotgg/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Novadotgg/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Novadotgg/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
