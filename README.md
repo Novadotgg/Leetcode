@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Novadotgg/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Novadotgg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Novadotgg/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Novadotgg/Leetcode/tree/master/0125-valid-palindrome) |
