@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Novadotgg/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Novadotgg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Novadotgg/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2155-find-missing-observations](https://github.com/Novadotgg/Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Novadotgg/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Novadotgg/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Novadotgg/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Novadotgg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Novadotgg/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2155-find-missing-observations](https://github.com/Novadotgg/Leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Novadotgg/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Novadotgg/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Novadotgg/Leetcode/tree/master/2846-robot-collisions) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Novadotgg/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Novadotgg/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Novadotgg/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/Novadotgg/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Novadotgg/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Novadotgg/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Heap (Priority Queue)
