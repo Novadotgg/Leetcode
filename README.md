@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Novadotgg/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Novadotgg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Novadotgg/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Novadotgg/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/Novadotgg/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Novadotgg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Novadotgg/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Novadotgg/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Novadotgg/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Novadotgg/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Novadotgg/Leetcode/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Novadotgg/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Novadotgg/Leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Novadotgg/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Novadotgg/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Novadotgg/Leetcode/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Novadotgg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
