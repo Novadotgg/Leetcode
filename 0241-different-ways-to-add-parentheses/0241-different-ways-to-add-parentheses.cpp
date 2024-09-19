@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> diffWaysToCompute(string expression) {
         vector<int> res;
-        for (int i = 0; i < expression.size(); ++i) {
+        for (int i = 0; i < expression.size(); i++) {
             char oper = expression[i];
             if (oper == '+' || oper == '-' || oper == '*') {
                 vector<int> s1 = diffWaysToCompute(expression.substr(0, i));
