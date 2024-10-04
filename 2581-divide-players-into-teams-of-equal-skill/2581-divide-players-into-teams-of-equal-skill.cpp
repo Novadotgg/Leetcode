@@ -7,14 +7,11 @@ public:
         int check = 0;  
         int a = 0;  
         int b = skill.size() - 1;  
-        
         check = accumulate(skill.begin(), skill.end(), 0);  
         if (check % (skill.size() / 2) != 0) {
             return -1;  
         }
-        
         int targetSum = check / (skill.size() / 2); 
-       
         while (a < b) {
             if (skill[a] + skill[b] != targetSum) {
                 return -1; 
