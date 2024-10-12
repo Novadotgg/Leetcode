@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Novadotgg/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Novadotgg/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0432-all-oone-data-structure](https://github.com/Novadotgg/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Novadotgg/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Novadotgg/Leetcode/tree/master/0859-design-circular-deque) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Novadotgg/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Novadotgg/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Novadotgg/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Novadotgg/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Novadotgg/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
