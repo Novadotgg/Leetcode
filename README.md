@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Novadotgg/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Novadotgg/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Novadotgg/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Novadotgg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Novadotgg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Novadotgg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Novadotgg/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
