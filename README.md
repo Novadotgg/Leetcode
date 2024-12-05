@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Novadotgg/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Novadotgg/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Novadotgg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Novadotgg/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Novadotgg/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Novadotgg/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Novadotgg/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Novadotgg/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Novadotgg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Novadotgg/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Novadotgg/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Novadotgg/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Novadotgg/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Novadotgg/Leetcode/tree/master/2580-circular-sentence) |
