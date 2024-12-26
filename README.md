@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Novadotgg/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/Novadotgg/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Novadotgg/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Novadotgg/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Novadotgg/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Novadotgg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Novadotgg/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/Novadotgg/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Novadotgg/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Novadotgg/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Novadotgg/Leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Novadotgg/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Novadotgg/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/Novadotgg/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Novadotgg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Novadotgg/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Novadotgg/Leetcode/tree/master/1196-filling-bookcase-shelves) |
