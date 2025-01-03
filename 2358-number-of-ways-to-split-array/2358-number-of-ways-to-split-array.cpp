@@ -1,8 +1,8 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
-        long long l=0;
-        long long r=0;
+        long l=0;
+        long r=0;
         for(int i:nums){
             r+=i;
         }
