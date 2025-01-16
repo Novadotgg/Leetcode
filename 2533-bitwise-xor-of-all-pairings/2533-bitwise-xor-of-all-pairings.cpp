@@ -4,7 +4,7 @@ public:
         // Get lengths of arrays
         int len1 = nums1.size();
         int len2 = nums2.size();
-
+//using hashmap
         // Map to store frequency of each number
         // unordered_map<int, long> freq;
 
@@ -29,6 +29,8 @@ public:
         // }
 
         // return ans;
+
+        //using bit manipulation
         int x1=0;
         int x2=0;
         if(len2%2!=0){
