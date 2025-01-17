@@ -1,16 +1,23 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
-        vector<int> original={0};
+        // vector<int> original={0};
+        // for(int i=0;i<derived.size();i++){
+        //     original.push_back(original[i]^derived[i]);
+        // }
+        // bool check_zero=(original[0]==original[original.size()-1]);
+        // original={1};
+        // for(int i=0;i<derived.size();i++){
+        //     original.push_back((derived[i]^original[i]));
+        // }
+        // bool check_one=(original[0]==original[original.size()-1]);
+        // return check_zero|check_one;
+        //2nd approach
+        int ans=0;
         for(int i=0;i<derived.size();i++){
-            original.push_back(original[i]^derived[i]);
+            ans^=derived[i];
         }
-        bool check_zero=(original[0]==original[original.size()-1]);
-        original={1};
-        for(int i=0;i<derived.size();i++){
-            original.push_back((derived[i]^original[i]));
-        }
-        bool check_one=(original[0]==original[original.size()-1]);
-        return check_zero|check_one;
+        if(ans==0)return true;
+        return false;
     }
 };
