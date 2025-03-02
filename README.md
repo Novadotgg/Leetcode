@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Novadotgg/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Novadotgg/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Novadotgg/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Novadotgg/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Novadotgg/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Novadotgg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Novadotgg/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Novadotgg/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Novadotgg/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/Novadotgg/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Novadotgg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Novadotgg/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Novadotgg/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Novadotgg/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Novadotgg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Novadotgg/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Novadotgg/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Novadotgg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Novadotgg/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
