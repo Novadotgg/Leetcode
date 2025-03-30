@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Novadotgg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Novadotgg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Novadotgg/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Novadotgg/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Novadotgg/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Novadotgg/Leetcode/tree/master/1972-rotating-the-box) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Novadotgg/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Novadotgg/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Novadotgg/Leetcode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Novadotgg/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Novadotgg/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Novadotgg/Leetcode/tree/master/0952-word-subsets) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Novadotgg/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Novadotgg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Novadotgg/Leetcode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Novadotgg/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Novadotgg/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Novadotgg/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Novadotgg/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Novadotgg/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Novadotgg/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Novadotgg/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Novadotgg/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
