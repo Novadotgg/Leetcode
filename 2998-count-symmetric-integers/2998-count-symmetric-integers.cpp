@@ -6,7 +6,7 @@ public:
         while (low <= high) {
             vector<int> help;
             int temp = low;
-            while (temp > 0) {
+            while(temp > 0) {
                 help.push_back(temp % 10);
                 temp /= 10;
             }
