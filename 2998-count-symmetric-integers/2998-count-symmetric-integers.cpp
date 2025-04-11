@@ -13,8 +13,6 @@ public:
 
             int n = help.size();
             if (n % 2 == 0) {
-                // reverse(help.begin(), help.end());
-
                 int mid = n / 2;
                 int leftSum = 0, rightSum = 0;
 
