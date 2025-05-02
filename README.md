@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Novadotgg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Novadotgg/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Novadotgg/Leetcode/tree/master/0868-push-dominoes) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Novadotgg/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Novadotgg/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Novadotgg/Leetcode/tree/master/1972-rotating-the-box) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Novadotgg/Leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Novadotgg/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Novadotgg/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Novadotgg/Leetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Novadotgg/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Novadotgg/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Novadotgg/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Novadotgg/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Novadotgg/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Novadotgg/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/Novadotgg/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Novadotgg/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Novadotgg/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Novadotgg/Leetcode/tree/master/1063-best-sightseeing-pair) |
