@@ -4,13 +4,16 @@ public:
         int n=ratings.size();
         vector<int> candy(n,1);
         /*
-        map both the array of candy and ratings
-        Then check
-            if the current's neighbour rating is more than current rating
-                then  increase the neighbour candy by 1
-            else increase the current candy by 1
-            then incremenet the current then again check until current is taken to  the last
+        1. Give each child 1 candy initially.
+        2. From left to right:
+            - If current child's rating is greater than the left neighbor,
+            give current child (left neighbor's candies + 1).
+        3. From right to left:
+            - If current child's rating is greater than the right neighbor,
+            set current child's candy = max(current, right neighbor's candy + 1).
+        4. Sum all candies and return.
         */
+        
         int sum=0;
         //One case from left to right
         for(int i=1;i< n;i++){
@@ -25,7 +28,7 @@ public:
             }
         }
 
-        
+
 
         for(int i=0;i<n;i++){
             sum+=candy[i];
