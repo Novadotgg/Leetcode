@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Novadotgg/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Novadotgg/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Novadotgg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/Novadotgg/Leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Novadotgg/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Novadotgg/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Novadotgg/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Novadotgg/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Novadotgg/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Novadotgg/Leetcode/tree/master/0670-maximum-swap) |
