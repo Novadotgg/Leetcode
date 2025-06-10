@@ -13,7 +13,7 @@
 //         }
 //         if(odd.empty()||even.empty())return -1;
 //         int e=*max_element(even.begin(),even.end());
-//         int o=*max_element(odd.begin(),odd.end());
+//         int o=*min_element(odd.begin(),odd.end());
 //         return abs(e - o);
 //     }
 // };
