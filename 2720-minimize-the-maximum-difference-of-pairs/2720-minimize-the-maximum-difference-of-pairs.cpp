@@ -7,7 +7,7 @@ public:
         while (i < nums.size()) {
             if (nums[i] - nums[i - 1] <= maxDiff) {
                 count++;
-                i += 2; // skip the next to make sure pairs don't overlap
+                i += 2; // skipping the next to make sure pairs don't overlap
             } else {
                 i++;
             }
