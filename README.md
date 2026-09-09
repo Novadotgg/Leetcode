@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Novadotgg/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Novadotgg/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Novadotgg/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3871-count-commas-in-range-ii](https://github.com/Novadotgg/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
