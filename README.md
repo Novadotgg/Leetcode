@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Novadotgg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Novadotgg/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Novadotgg/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/Novadotgg/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Novadotgg/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Novadotgg/Leetcode/tree/master/1240-stone-game-ii) |
 | [1500-count-largest-group](https://github.com/Novadotgg/Leetcode/tree/master/1500-count-largest-group) |
@@ -1110,4 +1111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Novadotgg/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Novadotgg/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Novadotgg/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
